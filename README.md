@@ -3,7 +3,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koulkoudakis&layout=compact)
-### Hi there, I'm Sharome Burton 👋
+### Hello there, I'm Sharome Burton 👋
 
 <!--
 **koulkoudakis/koulkoudakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koulkoudakis&layout=compact)]
 
 <h3>📫 How to reach me: ...</h3>
+
 * Email: koulkoudakis@gmail.com
 * LinkedIn: https://www.linkedin.com/in/sharome-burton/
 
