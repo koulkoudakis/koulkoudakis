@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <h3>🌱 I’m currently learning ...</h3>
+
 * Machine learning
 * Data Science
 * Web Development
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 * Robotics research projects
 * Search and Rescue using autonomous UAV's
   
-<h3>👀 Stats</h3>
+<h3>👀 Statistics ... </h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koulkoudakis&layout=compact)
 
