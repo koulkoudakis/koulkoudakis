@@ -1,7 +1,8 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=koulkoudakis.koulkoudakis)
+
 
 ### Hello there, I'm Sharome Burton 👋
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=koulkoudakis.koulkoudakis)
+<br>
 <!--
 **koulkoudakis/koulkoudakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
