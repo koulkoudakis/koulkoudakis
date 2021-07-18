@@ -20,19 +20,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>- 🌱 I’m currently learning ...</h2>
+<h3>🌱 I’m currently learning ...</h2>
 * Machine learning
 * Data Science
 * Web Development
 
-<h2>- 🔭 I’m currently working on ... </h2>
+<h3>🔭 I’m currently working on ... </h2>
 
 * Machine learning projects
 * Robotics research projects
-* Search & Rescue using autonomous UAV's
+* Search and Rescue using autonomous UAV's
   
-
-<h2>👀 Stats</h2>
+<h3>👀 Stats</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koulkoudakis&layout=compact)
 
@@ -42,4 +41,8 @@ Here are some ideas to get you started:
   </p>  
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koulkoudakis&layout=compact)]
+
+<h3>📫 How to reach me: ...</h3>
+* Email: koulkoudakis@gmail.com
+* LinkedIn: https://www.linkedin.com/in/sharome-burton/
 
