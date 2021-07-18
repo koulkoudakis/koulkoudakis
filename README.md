@@ -41,7 +41,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=koulkoudakis" alt="GitHub Stats" /> <br/><br/>
   </p>  
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koulkoudakis&layout=compact)]
 
 <h3>📫 How to reach me: ...</h3>
 
