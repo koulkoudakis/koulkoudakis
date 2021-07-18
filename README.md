@@ -1,3 +1,5 @@
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)]
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>👀 Stats</h2>
+
+<div>
+  <b><em>Overall GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=koulkoudakis" alt="GitHub Stats" /> <br/><br/>
+  <b><em>My Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=koulkoudakis" alt="WakaTime" />
+  </p>
+</div>
+
