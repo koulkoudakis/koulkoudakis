@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>🌱 I’m currently learning ...</h2>
+<h3>🌱 I’m currently learning ...</h3>
 * Machine learning
 * Data Science
 * Web Development
 
-<h3>🔭 I’m currently working on ... </h2>
+<h3>🔭 I’m currently working on ... </h3>
 
 * Machine learning projects
 * Robotics research projects
 * Search and Rescue using autonomous UAV's
   
-<h3>👀 Stats</h2>
+<h3>👀 Stats</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koulkoudakis&layout=compact)
 
