@@ -1,8 +1,5 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=koulkoudakis.koulkoudakis)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koulkoudakis&layout=compact)
 ### Hello there, I'm Sharome Burton 👋
 
 <!--
@@ -22,8 +19,10 @@ Here are some ideas to get you started:
 
 <h3>🌱 I’m currently learning ...</h3>
 
-* Machine learning
 * Data Science
+* Convolutional Neural Networks
+* Computer Vision
+* Natural Language Processing
 * Web Development
 
 <h3>🔭 I’m currently working on ... </h3>
@@ -32,17 +31,17 @@ Here are some ideas to get you started:
 * Robotics research projects
 * Search and Rescue using autonomous UAV's
   
-<h3>👀 Statistics ... </h3>
+<h3>⌨️ What I use ... </h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koulkoudakis)
 
 <div>
-  <b><em>Overall GitHub Stats:</em></b> <br/>
+  <b><em>Overall GitHub Stat:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=koulkoudakis" alt="GitHub Stats" /> <br/><br/>
   </p>  
 </div>
 
-<h3>📫 How to reach me: ...</h3>
+<h3>📫 How to reach me: </h3>
 
 * Email: koulkoudakis@gmail.com
 * LinkedIn: https://www.linkedin.com/in/sharome-burton/
