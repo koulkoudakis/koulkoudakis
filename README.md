@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div>
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=koulkoudakis" alt="GitHub Stats" /> <br/><br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
   </p>
 </div>
 
