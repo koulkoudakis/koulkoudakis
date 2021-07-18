@@ -3,7 +3,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koulkoudakis&layout=compact)
-### Hi there 👋
+### Hi there, I'm Sharome Burton 👋
 
 <!--
 **koulkoudakis/koulkoudakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>- 🌱 I’m currently learning ...</h2>
+* Machine learning
+* Data Science
+* Web Development
+
+<h2>- 🔭 I’m currently working on ... </h2>
+
+* Machine learning projects
+* Robotics research projects
+* Search & Rescue using autonomous UAV's
+  
 
 <h2>👀 Stats</h2>
 
