@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <div>
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=koulkoudakis" alt="GitHub Stats" /> <br/><br/>
+  ![Overall Stats](https://github-readme-stats.vercel.app/api?username=laxmena&count_private=true&show_icons=true&hide=contribs
   <b><em>My Programming activity (Last 7 days):</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=koulkoudakis" alt="WakaTime" />
   </p>
