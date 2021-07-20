@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 
 * Email: koulkoudakis@gmail.com
 * LinkedIn: https://www.linkedin.com/in/sharome-burton/
+* Kaggle: https://www.kaggle.com/sharomeethan
 
