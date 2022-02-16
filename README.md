@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 
 <h3>🌱 I’m currently learning ...</h3>
 
-* Data Science
-* Convolutional Neural Networks
 * Computer Vision
+* Convolutional Neural Networks
 * Natural Language Processing
-* Web Development
+* Game Development
 
 <h3>🔭 I’m currently working on ... </h3>
 
 * Machine learning projects
 * Robotics research projects
 * Search and Rescue using autonomous UAV's
+* Games using Unity/C#
   
 <h3>⌨️ What I use ... </h3>
 
